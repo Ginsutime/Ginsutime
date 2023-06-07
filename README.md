@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginsutime&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginsutime&size_weight=0.2&count_weight=0.8&layout=compact)
 
 <!--Ginsutime
 **Ginsutime/Ginsutime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
