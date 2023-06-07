@@ -4,7 +4,7 @@ I'm Brett Austin. I'm a gameplay programmer that dabbles in audio programming fr
 
 My portfolio can be found [here](https://brett-austin.wixsite.com/website).
 
-An interesting snippet of audio code is in **Assets/_Game/Scripts/AudioSystem/SFXManager.cs** ***(Lines 14-34)*** of the pinned project, in which an approach I call lazy instantiation is employed.
+An interesting snippet of audio code is in **[Assets/_Game/Scripts/AudioSystem/SFXManager.cs](https://github.com/Ginsutime/Unity-Audio-System/blob/main/Assets/_Game/Scripts/AudioSystem/SFXManager.cs)** ***(Lines 14-34)*** of the pinned project, in which an approach I call lazy instantiation is employed.
 
 ### Pinned Repositories
 
