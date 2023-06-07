@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://myreadme.vercel.app/api/embed/Ginsutime?panels=toprepositories
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginsutime&size_weight=0.3&count_weight=0.7&layout=compact)
 
 <!--Ginsutime
