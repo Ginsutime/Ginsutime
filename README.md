@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginsutime&size_weight=0.3&count_weight=0.7&layout=compact&repo=Unity-Audio-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginsutime&repo=Unity-Audio-System)](https://github.com/Ginsutime/Unity-Audio-System)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginsutime&size_weight=0.3&count_weight=0.7&layout=compact)
 
 <!--Ginsutime
 **Ginsutime/Ginsutime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
