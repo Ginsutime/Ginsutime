@@ -1,4 +1,6 @@
-Hi, I'm Brett Austin. I'm a gameplay programmer that dabbles in audio programming from time to time. My repository contains work on team projects as well as games and engine systems I've made through my journey as a developer. 
+### Hi! 
+
+I'm Brett Austin. I'm a gameplay programmer that dabbles in audio programming from time to time. My repository contains work on team projects as well as games and engine systems I've made through my journey as a developer. 
 
 My portfolio can be found [here](https://brett-austin.wixsite.com/website).
 
