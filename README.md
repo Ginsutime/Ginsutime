@@ -1,6 +1,9 @@
-### Hi there 👋
+Hi, I'm Brett Austin. I'm a gameplay programmer that dabbles in audio programming from time to time. My repository contains work on team projects as well as games and engine systems I've made through my journey as a developer. My portfolio can be found [here](https://brett-austin.wixsite.com/website).
+
+An interesting piece of audio code is in #Assets/_Game/Scripts/AudioSystem/SFXManager.cs (Lines 14-34)# of the pinned project, in which an approach I call lazy instantiation is employed.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginsutime&repo=Unity-Audio-System)](https://github.com/Ginsutime/Unity-Audio-System)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginsutime&size_weight=0.3&count_weight=0.7&layout=compact)
 
 <!--Ginsutime
